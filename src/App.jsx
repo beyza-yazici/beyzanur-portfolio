@@ -1,3 +1,4 @@
+import Navbar from "./components/Navbar"
 import { useTheme } from "./context/useTheme"
 
 function App() {
@@ -9,8 +10,7 @@ function App() {
         ? 'bg-[#0a0a0a] text-[#e0e0e0]'
         : 'bg-[#f5f5f0] text-[#1a1a1a]'
       }`}>
-      <h1> Merhaba Beyza!
-      </h1>
+      <Navbar />
     </div>
   )
 }
