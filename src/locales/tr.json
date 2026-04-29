@@ -1,0 +1,35 @@
+{
+    "nav": {
+        "about": "Hakkımda",
+        "projects": "Projeler",
+        "contact": "İletişim"
+    },
+    "hero": {
+        "role": "Junior Full Stack Developer",
+        "tagline": "Çocuklara öğretirdim. Şimdi bir şeyler inşa ediyorum.",
+        "cv": "CV İndir"
+    },
+    "about": {
+        "title": "Ben Kimim",
+        "bio": "Okul öncesi öğretmeniydim, ardından bir startup'ta CRM uzmanı olarak çalıştım. Bu süreçte her zaman bir developer gibi düşündüğümü fark ettim — problem çözüyor, süreçleri optimize ediyor, insanları anlıyordum. Bu yüzden bir şeyler inşa etmeye karar verdim. Full stack geliştirme kursumu tamamladım ve şimdi buradayım.",
+        "certificate": "Full Stack Development Sertifikası · 2024",
+        "skillsTitle": "Kullandığım Teknolojiler"
+    },
+    "projects": {
+        "title": "İnşa Ettiklerim",
+        "demo": "Canlı Demo",
+        "code": "Kod"
+    },
+    "contact": {
+        "title": "Birlikte Çalışalım",
+        "name": "İsim",
+        "email": "E-posta",
+        "message": "Mesaj",
+        "send": "Gönder",
+        "success": "Mesajınız başarıyla gönderildi!",
+        "error": "Bir şeyler ters gitti. Lütfen tekrar deneyin."
+    },
+    "footer": {
+        "text": "Tasarım & Geliştirme · Beyza Nur Yazıcı · 2024"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "nav": {
+        "about": "About",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "hero": {
+        "role": "Junior Full Stack Developer",
+        "tagline": "I used to teach kids. Now I build things.",
+        "cv": "Download CV"
+    },
+    "about": {
+        "title": "Who I Am",
+        "bio": "I was a preschool teacher, then worked as a CRM specialist at a startup. Along the way, I realized I was always thinking like a developer — solving problems, optimizing processes, understanding people. So I decided to build things. I completed a full stack development bootcamp and now I'm here.",
+        "certificate": "Full Stack Development Certificate · 2024",
+        "skillsTitle": "What I Work With"
+    },
+    "projects": {
+        "title": "Things I Built",
+        "demo": "Live Demo",
+        "code": "Code"
+    },
+    "contact": {
+        "title": "Let's Work Together",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "send": "Send",
+        "success": "Message sent successfully!",
+        "error": "Something went wrong. Please try again."
+    },
+    "footer": {
+        "text": "Designed & Built by Beyza Nur Yazıcı · 2024"
+    }
+}
